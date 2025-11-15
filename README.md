@@ -1,7 +1,7 @@
 # Customer Churn
 
 📘 Customer Churn Prediction — Machine Learning Project
-https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+
 
 ## 📌 Overview
 
@@ -22,7 +22,7 @@ It complements my CO₂ vs GDP project by adding a predictive machine-learning e
 
 ## 📂 Dataset
 
-**Source:** Telco Customer Churn (Kaggle)  
+**Source:** Telco Customer Churn (Kaggle): https://www.kaggle.com/datasets/blastchar/telco-customer-churn    
 **Rows:** ~7,000  
 **Features:** mix of numerical, categorical, behavioral, and account-level details  
 **Target:**  
